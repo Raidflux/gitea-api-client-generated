@@ -17,7 +17,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"giteaApiClientGenerated/models"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/models"
 )
 
 // UserSearchReader is a Reader for the UserSearch structure.

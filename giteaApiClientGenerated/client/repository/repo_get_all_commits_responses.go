@@ -15,7 +15,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"giteaApiClientGenerated/models"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/models"
 )
 
 // RepoGetAllCommitsReader is a Reader for the RepoGetAllCommits structure.

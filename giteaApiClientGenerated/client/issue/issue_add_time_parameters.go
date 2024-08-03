@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"giteaApiClientGenerated/models"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/models"
 )
 
 // NewIssueAddTimeParams creates a new IssueAddTimeParams object,

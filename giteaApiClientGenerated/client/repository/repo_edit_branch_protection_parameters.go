@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"giteaApiClientGenerated/models"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/models"
 )
 
 // NewRepoEditBranchProtectionParams creates a new RepoEditBranchProtectionParams object,

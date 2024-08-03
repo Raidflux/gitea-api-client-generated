@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"giteaApiClientGenerated/models"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/models"
 )
 
 // NewCreateCurrentUserRepoParams creates a new CreateCurrentUserRepoParams object,

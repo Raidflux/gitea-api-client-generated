@@ -10,16 +10,16 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"giteaApiClientGenerated/client/activitypub"
-	"giteaApiClientGenerated/client/admin"
-	"giteaApiClientGenerated/client/issue"
-	"giteaApiClientGenerated/client/miscellaneous"
-	"giteaApiClientGenerated/client/notification"
-	"giteaApiClientGenerated/client/organization"
-	"giteaApiClientGenerated/client/package_operations"
-	"giteaApiClientGenerated/client/repository"
-	"giteaApiClientGenerated/client/settings"
-	"giteaApiClientGenerated/client/user"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/activitypub"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/admin"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/issue"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/miscellaneous"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/notification"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/organization"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/package_operations"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/repository"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/settings"
+	"github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated/client/user"
 )
 
 // Default gitea API client generated HTTP client.

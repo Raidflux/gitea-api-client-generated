@@ -1,4 +1,4 @@
-module giteaApiClientGenerated
+module github.com/Raidflux/gitea-api-client-generated/giteaApiClientGenerated
 
 go 1.22.5
 
